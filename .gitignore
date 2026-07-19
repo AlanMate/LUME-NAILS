@@ -1,6 +1,7 @@
 data/
 backups/
 .git.legacy-empty/
+.git.legacy-generated*/
 git-meta/
 *.log
 .env
