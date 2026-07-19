@@ -1,0 +1,9 @@
+data/
+backups/
+.git.legacy-empty/
+git-meta/
+*.log
+.env
+.env.*
+!.env.example
+node_modules/
